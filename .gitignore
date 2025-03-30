@@ -1,0 +1,16 @@
+Debug/
+Release/
+vs/
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.ipch
+*.log
+*.vsidx
+*.aps
+*.sin
+*.dsp
+*.dsw
+.vs/
